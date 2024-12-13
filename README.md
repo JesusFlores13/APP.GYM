@@ -62,12 +62,16 @@ Integrar el módulo de recursos materiales en la aplicación web del gimnasio �
 
 ## WIREFRAMES 
 ![WhatsApp Image 2024-12-13 at 2 18 07 PM](https://github.com/user-attachments/assets/0ddac276-002e-47dc-95e9-6852a5d40fc8)
+
 ![WhatsApp Image 2024-12-13 at 2 18 19 PM](https://github.com/user-attachments/assets/c13d095a-f3b8-42a6-ac22-f578598b56df)
+
 ![WhatsApp Image 2024-12-13 at 2 18 38 PM](https://github.com/user-attachments/assets/97417ad8-dd58-4c8e-8654-f5860b105084)
 
 ## MOCKUPS
 ![WhatsApp Image 2024-12-13 at 2 19 00 PM](https://github.com/user-attachments/assets/594850b8-3749-418e-adf5-9a8b90e31162)
+
 ![WhatsApp Image 2024-12-13 at 2 19 20 PM](https://github.com/user-attachments/assets/959c323c-22f3-4cd1-b295-dbb8b1805993)
+
 ![WhatsApp Image 2024-12-13 at 2 19 31 PM](https://github.com/user-attachments/assets/f0f448be-fa82-4e15-94bc-dcacab6c0167)
 
 ## PROTOTIPADO

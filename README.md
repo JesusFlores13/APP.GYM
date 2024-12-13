@@ -17,9 +17,7 @@ INGENIERIA EN DESARROLLO Y GESTIÓN DE SOFTWARE
 | Jonathan Enrique Ibarra Canales | Desarrollador BackEnd |
 
 # ORGANIGRAMA DEL EQUIPO
-<p align="center">
-  <img src="https://github.com/Hugosago/P.F/blob/yair/Documentacion/Organigrama.png" alt="Organigrama">
-</p>
+![WhatsApp Image 2024-12-13 at 1 41 30 PM](https://github.com/user-attachments/assets/5ec90a32-3b7b-494f-b4a6-3f4f0c321091)
 
 </div>
 
@@ -63,8 +61,14 @@ Integrar el módulo de recursos materiales en la aplicación web del gimnasio �
 - El sistema debe ser rápido y eficiente, permitiendo un acceso ágil a la información del inventario incluso en momentos de alta demanda.
 
 ## WIREFRAMES 
+![WhatsApp Image 2024-12-13 at 2 18 07 PM](https://github.com/user-attachments/assets/0ddac276-002e-47dc-95e9-6852a5d40fc8)
+![WhatsApp Image 2024-12-13 at 2 18 19 PM](https://github.com/user-attachments/assets/c13d095a-f3b8-42a6-ac22-f578598b56df)
+![WhatsApp Image 2024-12-13 at 2 18 38 PM](https://github.com/user-attachments/assets/97417ad8-dd58-4c8e-8654-f5860b105084)
 
 ## MOCKUPS
+![WhatsApp Image 2024-12-13 at 2 19 00 PM](https://github.com/user-attachments/assets/594850b8-3749-418e-adf5-9a8b90e31162)
+![WhatsApp Image 2024-12-13 at 2 19 20 PM](https://github.com/user-attachments/assets/959c323c-22f3-4cd1-b295-dbb8b1805993)
+![WhatsApp Image 2024-12-13 at 2 19 31 PM](https://github.com/user-attachments/assets/f0f448be-fa82-4e15-94bc-dcacab6c0167)
 
 ## PROTOTIPADO
-
+![WhatsApp Image 2024-12-13 at 2 20 46 PM](https://github.com/user-attachments/assets/8a56b75f-00ab-4b71-9fc7-137fe4e5c645)

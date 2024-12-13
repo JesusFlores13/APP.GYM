@@ -61,6 +61,8 @@ Integrar el módulo de recursos materiales en la aplicación web del gimnasio �
 - El sistema debe ser rápido y eficiente, permitiendo un acceso ágil a la información del inventario incluso en momentos de alta demanda.
 
 ## SKETCHS
+![WhatsApp Image 2024-12-13 at 3 15 18 PM](https://github.com/user-attachments/assets/b819cf1d-c83b-4c76-854c-61c06931ab4d)
+
 
 ## MOCKUPS 
 ![WhatsApp Image 2024-12-13 at 2 18 07 PM](https://github.com/user-attachments/assets/0ddac276-002e-47dc-95e9-6852a5d40fc8)

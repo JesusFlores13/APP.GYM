@@ -60,14 +60,16 @@ Integrar el m贸dulo de recursos materiales en la aplicaci贸n web del gimnasio 鈥
 - Debe ser capaz de manejar de forma adecuada y recuperarse de posibles fallos del sistema, minimizando el impacto en la operaci贸n general del gimnasio.
 - El sistema debe ser r谩pido y eficiente, permitiendo un acceso 谩gil a la informaci贸n del inventario incluso en momentos de alta demanda.
 
-## WIREFRAMES 
+## SKETCHS
+
+## MOCKUPS 
 ![WhatsApp Image 2024-12-13 at 2 18 07 PM](https://github.com/user-attachments/assets/0ddac276-002e-47dc-95e9-6852a5d40fc8)
 
 ![WhatsApp Image 2024-12-13 at 2 18 19 PM](https://github.com/user-attachments/assets/c13d095a-f3b8-42a6-ac22-f578598b56df)
 
 ![WhatsApp Image 2024-12-13 at 2 18 38 PM](https://github.com/user-attachments/assets/97417ad8-dd58-4c8e-8654-f5860b105084)
 
-## MOCKUPS
+## WIREFRAMES
 ![WhatsApp Image 2024-12-13 at 2 19 00 PM](https://github.com/user-attachments/assets/594850b8-3749-418e-adf5-9a8b90e31162)
 
 ![WhatsApp Image 2024-12-13 at 2 19 20 PM](https://github.com/user-attachments/assets/959c323c-22f3-4cd1-b295-dbb8b1805993)

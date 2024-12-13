@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:app_recursos_gym/services/sucursal_service.dart';
 
-class AgregarSucursal extends StatefulWidget {
+class EditarSucursal extends StatefulWidget {
   @override
-  _AgregarSucursalState createState() => _AgregarSucursalState();
+  _EditarSucursalState createState() => _EditarSucursalState();
 }
 
-class _AgregarSucursalState extends State<AgregarSucursal> {
+class _EditarSucursalState extends State<EditarSucursal> {
   final _formKey = GlobalKey<FormState>();
   String? nombre;
   String? direccion;

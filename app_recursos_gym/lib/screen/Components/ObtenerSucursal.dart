@@ -1,6 +1,7 @@
+import 'package:app_recursos_gym/screen/Components/AgregarSucursal.dart';
+import 'package:app_recursos_gym/screen/Components/EditarSucursal.dart';
 import 'package:app_recursos_gym/services/obtener_sucursal_service.dart';
 import 'package:flutter/material.dart';
-
 
 class SucursalesPage extends StatefulWidget {
   @override
@@ -15,6 +16,8 @@ class _SucursalesPageState extends State<SucursalesPage> {
     super.initState();
     sucursales = ObtenerSucursalService.obtenerSucursales();
   }
+
+
 
   @override
   Widget build(BuildContext context) {
@@ -39,10 +42,36 @@ class _SucursalesPageState extends State<SucursalesPage> {
                 final sucursal = sucursalesData[index];
                 return Card(
                   margin: EdgeInsets.symmetric(vertical: 10, horizontal: 15),
-                  child: ListTile(
-                    title: Text(sucursal['Nombre'] ?? 'Nombre no disponible'),
-                    subtitle: Text(sucursal['Direccion'] ?? 'Dirección no disponible'),
-                    trailing: Text(sucursal['Estatus'] ? 'Activo' : 'Inactivo'),
+                  child: Padding(
+                    padding: const EdgeInsets.all(10.0),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        ListTile(
+                          title: Text(
+                              sucursal['Nombre'] ?? 'Nombre no disponible'),
+                          subtitle: Text(sucursal['Direccion'] ??
+                              'Dirección no disponible'),
+                          trailing:
+                              Text(sucursal['Estatus'] ? 'Activo' : 'Inactivo'),
+                        ),
+                        SizedBox(height: 10),
+                        Align(
+                          alignment: Alignment.centerRight,
+                          child: ElevatedButton(
+                            onPressed: () {
+                              // Navegar a la segunda pantalla
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => EditarSucursal()),
+                              );
+                            },
+                            child: Text('Editar'),
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 );
               },

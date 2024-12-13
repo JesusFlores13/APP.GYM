@@ -43,7 +43,7 @@ class WelcomeApp extends StatelessWidget {
                       height: .8,
                       fontSize: 40, // Tamaño de fuente grande
                       fontWeight: FontWeight.bold, // Negritas
-                      color: Color.fromRGBO(0,213,168, 1), // Color blanco para que contraste con el fondo
+                      color: Color.fromARGB(255, 249, 41, 41), // Color blanco para que contraste con el fondo
                     ),
                   ),
         
@@ -67,7 +67,7 @@ class WelcomeApp extends StatelessWidget {
      floatingActionButton: FloatingActionButton(
       
       // backgroundColor: Color.fromARGB(230, 0, 255, 128),
-     backgroundColor: Color.fromRGBO(0,213,168, 1),
+     backgroundColor: Color.fromARGB(255, 249, 41, 41),
       onPressed: () {
          // Navegar a la segunda pantalla
             Navigator.push(

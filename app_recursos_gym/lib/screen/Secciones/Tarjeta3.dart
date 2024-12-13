@@ -57,7 +57,7 @@ class Tarjeta3 extends StatelessWidget {
                 left: 0, // Espaciado horizontal
                 right: 0,
                 child: Text(
-                  'Ver/ Editar \n Recursos',
+                  'Ver/ Editar \n Sucursal',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.black,

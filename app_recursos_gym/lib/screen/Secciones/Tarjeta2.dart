@@ -58,7 +58,7 @@ class Tarjeta2 extends StatelessWidget {
                 left: 0, // Espaciado horizontal
                 right: 0,
                 child: Text(
-                  'Agregar \n Recursos',
+                  'Agregar \n Sucursal',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     color: Colors.black,
